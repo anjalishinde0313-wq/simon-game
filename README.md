@@ -1,2 +1,2 @@
 # simon-game
-This is a simon game project to practice fronted
+This is a simon game project to practice fronted.
